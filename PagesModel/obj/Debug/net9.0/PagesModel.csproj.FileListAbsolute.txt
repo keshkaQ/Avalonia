@@ -1,0 +1,11 @@
+C:\Users\TitanPC\RiderProjects\AvaloniaHomework\PagesModel\bin\Debug\net9.0\PagesModel.deps.json
+C:\Users\TitanPC\RiderProjects\AvaloniaHomework\PagesModel\bin\Debug\net9.0\PagesModel.dll
+C:\Users\TitanPC\RiderProjects\AvaloniaHomework\PagesModel\bin\Debug\net9.0\PagesModel.pdb
+C:\Users\TitanPC\RiderProjects\AvaloniaHomework\PagesModel\obj\Debug\net9.0\PagesModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TitanPC\RiderProjects\AvaloniaHomework\PagesModel\obj\Debug\net9.0\PagesModel.AssemblyInfoInputs.cache
+C:\Users\TitanPC\RiderProjects\AvaloniaHomework\PagesModel\obj\Debug\net9.0\PagesModel.AssemblyInfo.cs
+C:\Users\TitanPC\RiderProjects\AvaloniaHomework\PagesModel\obj\Debug\net9.0\PagesModel.csproj.CoreCompileInputs.cache
+C:\Users\TitanPC\RiderProjects\AvaloniaHomework\PagesModel\obj\Debug\net9.0\PagesModel.dll
+C:\Users\TitanPC\RiderProjects\AvaloniaHomework\PagesModel\obj\Debug\net9.0\refint\PagesModel.dll
+C:\Users\TitanPC\RiderProjects\AvaloniaHomework\PagesModel\obj\Debug\net9.0\PagesModel.pdb
+C:\Users\TitanPC\RiderProjects\AvaloniaHomework\PagesModel\obj\Debug\net9.0\ref\PagesModel.dll

@@ -1,0 +1,30 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:pagesViewModel="clr-namespace:PagesViewModel;assembly=PagesViewModel"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="PagesView.MainWindow"
+        Title="PagesView">
+    <Design.DataContext>
+        <pagesViewModel:ManagerMovieViewModel/>
+    </Design.DataContext>
+    <Grid RowDefinitions="*,Auto" Margin="10">
+       <ListBox Grid.Row="0" ItemsSource="{Binding Movies}">
+           <ListBox.ItemTemplate>
+               <DataTemplate>
+                   <Grid ColumnDefinitions="200,100,100,100">
+                       <TextBlock Grid.Column="0" Text="{Binding Title}"/>
+                       <TextBlock Grid.Column="1" Text="{Binding Year}"/>
+                       <TextBlock Grid.Column="2" Text="{Binding Genre}"/>
+                       <TextBlock Grid.Column="3" Text="{Binding Rating}"/>
+                   </Grid>
+               </DataTemplate>
+           </ListBox.ItemTemplate>
+       </ListBox>
+        <Grid Grid.Row="1">
+            <Button Margin="20 20 0 0" HorizontalAlignment="Left" Content="Previous Page" Command="{Binding ToPreviousPage}"/>
+            <Button Margin="0 20 20 0" HorizontalAlignment="Right" Content="Next Page" Command="{Binding ToNextPage}"/>
+        </Grid>
+   </Grid>
+</Window>
