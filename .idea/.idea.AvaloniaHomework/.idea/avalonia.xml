@@ -10,6 +10,10 @@
         <entry key="Pages.View/MainWindow.axaml" value="Pages.View/Pages.View.csproj" />
         <entry key="PagesView/App.axaml" value="PagesView/PagesView.csproj" />
         <entry key="PagesView/MainWindow.axaml" value="PagesView/PagesView.csproj" />
+        <entry key="SwitchPagesUserControl/Views/MainWindow.axaml" value="SwitchPagesUserControl/SwitchPagesUserControl.csproj" />
+        <entry key="SwitchPagesUserControl/Views/Pages/FirstPage.axaml" value="SwitchPagesUserControl/SwitchPagesUserControl.csproj" />
+        <entry key="SwitchPagesUserControl/Views/Pages/SecondPage.axaml" value="SwitchPagesUserControl/SwitchPagesUserControl.csproj" />
+        <entry key="SwitchPagesUserControl/Views/Pages/ThirdPage.axaml" value="SwitchPagesUserControl/SwitchPagesUserControl.csproj" />
       </map>
     </option>
   </component>
