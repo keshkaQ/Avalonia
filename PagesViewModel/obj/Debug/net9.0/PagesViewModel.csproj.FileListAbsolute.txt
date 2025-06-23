@@ -13,3 +13,4 @@ C:\Users\TitanPC\RiderProjects\AvaloniaHomework\PagesViewModel\obj\Debug\net9.0\
 C:\Users\TitanPC\RiderProjects\AvaloniaHomework\PagesViewModel\obj\Debug\net9.0\refint\PagesViewModel.dll
 C:\Users\TitanPC\RiderProjects\AvaloniaHomework\PagesViewModel\obj\Debug\net9.0\PagesViewModel.pdb
 C:\Users\TitanPC\RiderProjects\AvaloniaHomework\PagesViewModel\obj\Debug\net9.0\ref\PagesViewModel.dll
+C:\Users\TitanPC\RiderProjects\AvaloniaHomework\PagesViewModel\obj\Debug\net9.0\PagesViewModel.sourcelink.json

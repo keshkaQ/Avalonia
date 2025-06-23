@@ -9,3 +9,4 @@ C:\Users\TitanPC\RiderProjects\AvaloniaHomework\PagesModel\obj\Debug\net9.0\Page
 C:\Users\TitanPC\RiderProjects\AvaloniaHomework\PagesModel\obj\Debug\net9.0\refint\PagesModel.dll
 C:\Users\TitanPC\RiderProjects\AvaloniaHomework\PagesModel\obj\Debug\net9.0\PagesModel.pdb
 C:\Users\TitanPC\RiderProjects\AvaloniaHomework\PagesModel\obj\Debug\net9.0\ref\PagesModel.dll
+C:\Users\TitanPC\RiderProjects\AvaloniaHomework\PagesModel\obj\Debug\net9.0\PagesModel.sourcelink.json

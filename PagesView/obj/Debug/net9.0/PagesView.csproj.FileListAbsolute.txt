@@ -68,3 +68,4 @@ C:\Users\TitanPC\RiderProjects\AvaloniaHomework\PagesView\bin\Debug\net9.0\Pages
 C:\Users\TitanPC\RiderProjects\AvaloniaHomework\PagesView\obj\Debug\net9.0\PagesView.csproj.Up2Date
 C:\Users\TitanPC\RiderProjects\AvaloniaHomework\PagesView\obj\Debug\net9.0\PagesView.genruntimeconfig.cache
 C:\Users\TitanPC\RiderProjects\AvaloniaHomework\PagesView\obj\Debug\net9.0\ref\PagesView.dll
+C:\Users\TitanPC\RiderProjects\AvaloniaHomework\PagesView\obj\Debug\net9.0\PagesView.sourcelink.json
